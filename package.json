@@ -20,5 +20,9 @@
   "devDependencies": {
     "typescript": "^4.6.4"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtripg6666tdr/async-lock.git"
+  }
 }
