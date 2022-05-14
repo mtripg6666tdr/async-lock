@@ -1,0 +1,24 @@
+{
+  "name": "@mtripg6666tdr/async-lock",
+  "private": false,
+  "version": "1.0.0",
+  "description": "Promise based mutex for JS: preventing from running same code block at the same time",
+  "main": "dist/index.js",
+  "types": "typings/index.d.ts",
+  "scripts": {
+    "test": "tsc && node test",
+    "build": "tsc"
+  },
+  "keywords": [
+    "async-lock",
+    "promise-lock",
+    "lock",
+    "mutex"
+  ],
+  "author": "mtripg6666tdr",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  },
+  "dependencies": {}
+}
